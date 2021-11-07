@@ -1,5 +1,7 @@
 #refer: https://understandingdata.com/python-for-seo/how-to-compress-images-in-python/
 #refer: https://www.runoob.com/python/os-walk.html
+# python3 -m pip install --upgrade pip
+# python3 -m pip install pillow
 
 from PIL import Image
 import PIL
